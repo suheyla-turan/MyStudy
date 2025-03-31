@@ -8,7 +8,7 @@ CREATE TABLE BOOKS(
 
 
 INSERT INTO BOOKS VALUES(1,'Time to Grow Up!','original',11,21);
-INSERT INTO BOOKS VALUES(2,'Time to Grow Up!','translated',15,22);
+INSERT INTO BOOKS VALUES(2,'Your Trip','translated',15,22);
 INSERT INTO BOOKS VALUES(3,'Lovely Love','translated',14,24);
 INSERT INTO BOOKS VALUES(4,'Dream Your Life','original',11,24);
 INSERT INTO BOOKS VALUES(5,'Oranges','translated',12,25);
